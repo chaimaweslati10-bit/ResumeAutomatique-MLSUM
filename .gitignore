@@ -1,0 +1,13 @@
+# Environnement virtuel
+venv/
+venv312/
+.env/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Fichiers temporaires
+*.tmp
+.DS_Store
+~$*
