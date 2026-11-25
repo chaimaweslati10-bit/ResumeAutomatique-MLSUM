@@ -381,7 +381,11 @@ Ce travail présente certaines limites :
 - ROUGE ne reconnaît pas toujours les reformulations correctes.
 - Un résumé ayant un bon score ROUGE peut contenir des informations incorrectes.
 - La vérification manuelle nécessite du temps et reste en partie subjective.
+## 🔗 Lien du projet GitHub
 
+**GitHub Repository :**
+
+https://github.com/chaimaweslati10-bit/ResumeAutomatique-MLSUM
 ## 9. Auteurs
 
 **Réalisé par :**
